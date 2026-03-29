@@ -1,4 +1,4 @@
-# Task2 - Phishing Email Detection & Awareness System
+# Task 2 - Phishing Email Detection & Awareness System
 
 ## Overview
 This project focuses on detecting phishing emails and creating awareness about common phishing techniques. It involves analyzing suspicious emails, identifying malicious indicators, and understanding how attackers trick users.
