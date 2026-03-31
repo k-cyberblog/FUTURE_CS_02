@@ -16,9 +16,8 @@ This project focuses on detecting phishing emails and creating awareness about c
 
 ## Tools Used
 - Google Admin Toolbox (Message Header Analyzer)  
-- MXToolbox  
-- Google Chrome Browser  
-- Browser Developer Tools (DevTools)  
+- MXToolbox   
+- Browser Tools (virustotal)  
 
 ---
 
@@ -26,9 +25,8 @@ This project focuses on detecting phishing emails and creating awareness about c
 1. Collected phishing email samples from PhishTank  
 2. Performed header analysis using online tools  
 3. Checked SPF, DKIM, and DMARC results  
-4. Opened and analyzed links in a safe environment  
-5. Used DevTools to inspect network activity  
-6. Identified phishing indicators and risks  
+4. Analyzed URLs using VirusTotal  
+5. Identified phishing indicators  
 
 ---
 
@@ -37,8 +35,8 @@ This project focuses on detecting phishing emails and creating awareness about c
 - Suspicious domains were used  
 - Links redirected to unsafe or misleading websites  
 - One website contained ads and pop-ups  
-- Another displayed a fake verification page  
-- Emails used urgency and rewards to manipulate users  
+- Another displayed a fake verification page
+- Links flagged as phishing by VirusTotal   
 
 ---
 
